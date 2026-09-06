@@ -1,6 +1,6 @@
 # 🛒 Landing E-commerce Page
 
-This is a clean, modern, and fully responsive **E-commerce Landing Page** designed to provide an excellent user experience. 
+This is a clean, modern, **E-commerce Landing Page** designed to provide an excellent user experience. 
 
 ## 🚀 About The Project
 This repository contains my very first Frontend project. It was built from scratch to practice and master core web design concepts, structural layouts, and modern styling techniques.
