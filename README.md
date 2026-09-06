@@ -7,7 +7,7 @@ This repository contains my very first Frontend project. It was built from scrat
 
 ### 🛠️ Technologies Used
 * **HTML5** – For structuring the web page content and layouts.
-* **CSS3** – For custom styling, layout design, typography, and responsiveness.
+* **CSS3** – For custom styling, layout design, typography.
 
 ## 📂 Project Structure
 * `/images` – Contains all product images and promotional banners.
